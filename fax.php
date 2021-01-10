@@ -9,4 +9,9 @@
 		//add 10 to the output
 		echo $i + 10;
 	}
+
+//foreach
+	foreach ($variable as $key => $value) {
+		# code...
+	}
 ?>
