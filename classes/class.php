@@ -8,7 +8,7 @@
 		
 		function insert()
 		{
-			# code...
+			# DB insert operations
 		}
 	}
 ?>
