@@ -10,7 +10,7 @@
 		echo $i + 10;
 	}
 
-//foreach
+//foreach loops for associate arrays
 	foreach ($variable as $key => $value) {
 		# code...
 	}
