@@ -5,6 +5,8 @@
 	//using a for loop
 	for ($i=0; $i < 100; $i++) { 
 		# code...
-		echo $i;
+
+		//add 10 to the output
+		echo $i + 10;
 	}
 ?>
